@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Nunito:wght@300;400;500&family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200&display=swap');
+*{
+    background: black;
+    color: #D9D9D9;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.title{
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    text-shadow: 2px 4px 4px rgba(229, 231, 234, 0.6);
+}
+.sub-title{
+    text-align: center;
+}
+.image img{
+    width: 60%;
+    margin-left: auto;
+  margin-right: auto;
+  display: block;
+}  
+/* .image img{
+    background-position: left top;
+    background-repeat: no-repeat;
+    height: 20%;
+} */
+
+.quote{
+    text-align: center;
+}
+.quote1{
+    color: aqua;
+    text-transform: capitalize;
+    width: 20%;
+    margin-left: 20%;
+    line-height: 60px;
+    font-size: 30px;
+}
+.facts{
+    width: 50%;
+    margin-left: 40%;
+    margin-top: -26%;
+    line-height: 35px;
+}
+footer a:hover{
+    color: blue;
+}
+footer{
+    text-align: center;
+    margin-top: 30px;
+}
